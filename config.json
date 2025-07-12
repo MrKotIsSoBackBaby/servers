@@ -12,8 +12,8 @@
     "rescanTimeout": 5000,
     "scanPort": true,
     "scan24s": true,
-    "scanAllPorts": false,
-    "sudo": false,
+    "scanAllPorts": true,
+    "sudo": true,
     "java": true,
-    "bedrock": false
+    "bedrock": true
 }
